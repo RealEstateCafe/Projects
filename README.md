@@ -15,7 +15,7 @@ A project template is available on: LONG FORM LINK
 
 https://docs.google.com/presentation/d/10hGzPVYo_SVAEZydf7LboxV09-Z6EMB4YKALW8bqptg/edit?usp=drive_web
 
-Short FORML:
+Short FORM:
 
 * http://bit.ly/REBidWarHack_v1
 
