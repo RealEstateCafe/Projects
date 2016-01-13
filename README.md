@@ -11,7 +11,7 @@ http://openinnovationnetwork.github.io/Projects/
 
 ### Project Template
 
-A project template is available in https://docs.google.com/presentation/d/1Smi79L9L78V07MNZ6BkURArLeUubN4U0WKo8WmVGB8g/edit#slide=id.p
+A project template is available in https://docs.google.com/presentation/d/10hGzPVYo_SVAEZydf7LboxV09-Z6EMB4YKALW8bqptg/edit?usp=drive_web
 
 You should:
 
