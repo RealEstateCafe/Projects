@@ -11,13 +11,13 @@ http://openinnovationnetwork.github.io/Projects/
 
 ### Project Template
 
-A project template is available in https://docs.google.com/presentation/d/10hGzPVYo_SVAEZydf7LboxV09-Z6EMB4YKALW8bqptg/edit?usp=drive_web
+A project template is available on: LONG FORM LINK
 
-You should:
+https://docs.google.com/presentation/d/10hGzPVYo_SVAEZydf7LboxV09-Z6EMB4YKALW8bqptg/edit?usp=drive_web
 
-* Request authorization to the Google Drive folder
-* Make a copy of the current template in the same Google Drive folder
-* Fill out the template
+Short FORML:
+
+* http://bit.ly/REBidWarHack_v1
 
 ---
 
